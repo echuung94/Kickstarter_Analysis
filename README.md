@@ -44,26 +44,25 @@ down the column to make sure all the blanks were filled with the correct date.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+1. What are two conclusions you can draw about the Outcomes based on Launch Date?</br>
 Louise's play, Fever, was most the successful in the month of May with 111 shows although it was the highest amount of failed shows; the
 play had failed 55 times in May. 
 After the increase in shows from April to May, the numbers of successful shows started to gradually decrease until September while the 
 number of failed shows remained fairly consistent.  
 
-1. What can you conclude about the Outcomes based on Goals?</br>
+2. What can you conclude about the Outcomes based on Goals?</br>
 We can conclude that based on the table and line chart, the goal ranging "1000 to 4000," showed the highest number of successful 
 projects with 388 projects and a percentage rate of 73%. The goal, "less than 1000," shows 141 successful projects with the highest 
 percentage rate of 76%. 
 
-2. What are some limitations of this dataset?</br>
+3. What are some limitations of this dataset?</br>
 Since data is a human creation,  it is possible that there could be limitations of this dataset. One possible limitation could be 
 that the data is incomplete. There could be missing values for the amount of times a play was shown within a day or month.
 Extreme values may be another possible limitation of this dataset. For example, the goal amount could have been calculated 
 incorrectly showing an increasingly large amount acheived. That would cause the inability to accuarately assess the performance and sales
 of that particular day or month.  
 
-3. What are some other possible tables and/or graphs that we could create?</br>
+4. What are some other possible tables and/or graphs that we could create?</br>
 A possible graph that could have been created would be a bar graph. A bar graph is easy to understand and can show what changes over time,
 If we wanted to compare a particular subcategory to another and see how the outcome over a period of time, a possible graph that 
 could have been created would be a bar graph. A bar graph is easy to understand and can show what changes over time. Viewers 
